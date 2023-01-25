@@ -1,0 +1,159 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+    background-color: #F3F5FC;
+}
+
+.logo{
+    margin-top: 40px;
+    margin-left: 40px;
+    height: 48px;
+    width: 120px;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+main{
+    margin-left: 80px;
+}
+
+.textArea{
+    overflow: scroll;
+    resize: none;
+    margin-top: 80px;    
+    font-size: 32px;
+    font-weight: 400;
+    color: #0A3871;
+    border: none;
+    background-color: #F3F5FC;    
+    outline: none;
+}
+
+
+
+::placeholder{
+    color: #0A3871;
+    background: none;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    gap: 8px;
+    
+}
+
+.exclamacionImg{
+    height: 16px;
+}
+
+.infoP{
+    font-size: 12px;
+    font-weight: 400;
+    color: #495057;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 24px;
+    margin-top: 16px;
+}
+
+.encriptar{
+    background-color: #0A3871;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    color: #FFFFFF;
+    font-size: 16px;
+    border: solid 1px #0A3871;
+}
+
+.desencriptar{
+    background-color: #D8DFE8;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    color: #0A3871;
+    font-size: 16px;
+    border: solid 1px #0A3871;
+}
+
+.rectangulo{
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 650px;
+    margin: 40px auto 40px 80px;
+    border-radius: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 24px 32px -8px rgba(0,0,0,0.08);
+}
+
+.persona{
+    height:250px;
+    margin: 0 32px;
+}
+
+.recText1{
+    font-size: 24px;
+    font-weight: 700;
+    color: #343A40;
+    text-align: center;
+    margin: 32px 32px 16px 32px;
+}
+
+.recText2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #495057;
+    text-align: center;
+    margin: 0 32px;
+}
+
+#textoInsertado{
+    overflow: scroll;
+    resize: none;
+    border: none;
+    outline: none;
+    width: 336px;
+    height: 530px;
+    margin-top: 24px;
+    padding: 32px;
+    font-size: 20px;
+    color: #495057;
+    display: none;
+}
+
+.copiarBoton{
+    display: none;
+    background-color: #D8DFE8;
+    width: 328px;
+    height: 67px;
+    border-radius: 24px;
+    color: #0A3871;
+    font-size: 16px;
+    border: solid 1px #0A3871;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+textarea::-webkit-scrollbar {
+    display: none; 
+}
+
+.encriptar:hover, .desencriptar:hover, .copiarBoton:hover {
+    cursor: pointer;
+}
