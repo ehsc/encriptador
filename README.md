@@ -1,7 +1,8 @@
 # encriptador
 
-<p align="center"><img src="https://github.com/ehsc/encriptador/blob/main/img/screenshot.png" style="border-radius: 50%;"></p>
-
+<p align="center">
+</p>
+<img src="https://github.com/ehsc/encriptador/blob/main/img/screenshot.png" style="border-radius: 50%;">
 
 Aplicación que encripta textos
 
