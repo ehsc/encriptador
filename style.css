@@ -123,6 +123,15 @@ main{
     margin: 0 32px;
 }
 
+.recText3{
+    display: none;
+    font-size: 28px;
+    font-weight: 700;
+    color: #343A40;
+    text-align: center;
+    margin-bottom: 70%;
+}
+
 #textoInsertado{
     overflow: scroll;
     resize: none;
