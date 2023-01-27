@@ -1,5 +1,11 @@
 # encriptador
+
+<p align="center"><img src="https://github.com/ehsc/encriptador/blob/main/img/screenshot.png" /></p>
+
+
 Aplicación que encripta textos
+
+
 
 Las llaves de encriptación usadas son:
 
