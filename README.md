@@ -2,10 +2,10 @@
 
 <p align="center">
 </p>
-<img src="https://github.com/ehsc/encriptador/blob/main/img/screenshot.png" style="border-radius: 50%;">
+<img src="https://github.com/ehsc/encriptador/blob/main/img/screenshot.png">
 
-Aplicación que encripta textos
 
+_Aplicación que encripta textos_
 
 
 Las llaves de encriptación usadas son:
