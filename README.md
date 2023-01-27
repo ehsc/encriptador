@@ -1,6 +1,6 @@
 # encriptador
 
-<p align="center"><img src="https://github.com/ehsc/encriptador/blob/main/img/screenshot.png" /></p>
+<p align="center"><img src="https://github.com/ehsc/encriptador/blob/main/img/screenshot.png" style="border-radius: 10px;"></p>
 
 
 Aplicación que encripta textos
