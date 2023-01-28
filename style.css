@@ -77,6 +77,7 @@ main{
     color: #FFFFFF;
     font-size: 16px;
     border: solid 1px #0A3871;
+    transform: scale(.9);
 }
 
 .desencriptar{
@@ -87,6 +88,7 @@ main{
     color: #0A3871;
     font-size: 16px;
     border: solid 1px #0A3871;
+    transform: scale(.9);
 }
 
 .rectangulo{
@@ -157,6 +159,7 @@ main{
     border: solid 1px #0A3871;
     margin-top: 24px;
     margin-bottom: 24px;
+    transform: scale(.9);
 }
 
 textarea::-webkit-scrollbar {
